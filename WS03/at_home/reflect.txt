@@ -1,0 +1,10 @@
+//reflect.txt
+// Stefani Georgievska
+
+1. Reason for specialzing the sum() member function:
+	> So that the software can take in and work with different variables and templates.
+2. Reason for specializing initial value for summation: 
+	> We had to specialize it because the parameters had to take in eith an int or a 
+	  string, it was unknown.
+3. Reason for defining the class variable outside the class definition:
+	> It must be defined as a global variable. 
