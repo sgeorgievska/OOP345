@@ -5,8 +5,8 @@ Workshops, projects and coursework for Seneca's Object Oriented Software Develop
 - [x] W1 - Linkage, storage duration, namespaces, guards, and operating system interfaces.
 - [x] W2 - Compare performance of copy & move operations on large dynamically allocated array of C++ strings.
 - [x] W3 - Design and code class templates, test them on different instantiations.
-- [ ] W4 - A container class that holds notifications and a class that holds seperate messages.
-- [ ] W5 - Create lambda expressions, exception handling, and object functions. 
+- [x] W4 - A container class that holds notifications and a class that holds seperate messages.
+- [x] W5 - Create lambda expressions, exception handling, and object functions. 
 - [ ] W6 
 - [ ] W7
 - [ ] W8
